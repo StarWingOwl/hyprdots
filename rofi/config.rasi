@@ -1,0 +1,12 @@
+/*****-- Fonts Size and Font Size -----*****/
+configuration {
+  font: "Hack Nerd Font";
+}
+
+
+/*****-- Elements Font Size -----*****/
+element-text {
+  font: "Hack Nerd Font";
+}
+
+@theme "~/.local/share/rofi/themes/mocha.rasi"
