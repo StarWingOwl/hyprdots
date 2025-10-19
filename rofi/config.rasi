@@ -10,3 +10,8 @@ element-text {
 }
 
 @theme "~/.local/share/rofi/themes/mocha.rasi"
+configuration {
+    show-icons: true;
+    icon-theme: "Arc";  // or your preferred icon theme
+}
+
